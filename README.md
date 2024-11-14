@@ -56,7 +56,7 @@
 
 2. Get session id by (SCANNING QR1)
     <br>
-<a href='https://wa-session-1.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://cybersession.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2. Get session id by (PAIRING CODE2)
@@ -124,8 +124,8 @@
   <br>
   
 <p align="center">
-<a href=" https://wa.me/message/MA4OMKT7KOQYA1"><img src="https://img.shields.io/badge/whatsapp-ff0000?style=for-the-badge&logo=whatsapp&logoColor=ff000000&link=https://wa.me/255622053093"/><br>
-<a href=" https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link="https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x"/><br>
+<a href=" https://wa.me/message/MA4OMKT7KOQYA1"><img src="https://img.shields.io/badge/whatsapp-ff0000?style=for-the-badge&logo=whatsapp&logoColor=ff000000&link=https://wa.me/255622053093" /><br>
+<a href=" https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x" /><br>
 <a href="https://t.me/Barakabega"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 <a href=""><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 <a href="https://www.instagram.com/nyingi_offical?igsh=MThjeDNocGYzZWZlZQ=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
