@@ -1,9 +1,9 @@
 {
   "name":"𝗕𝗟𝗔𝗖𝗞 𝗧𝗜𝗚𝗘𝗥-𝗠𝗗-V1",
-  "description":"Best whatsapp bot developed by mr anyway + Baraka Bega",
+  "description":"Best whatsapp bot developed by mr Gmax",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/ir4ejb.png",
-  "repository":"https://github.com/Gmaxhacker1/Black-Tiger-Md-v1",
+  "logo":"https://files.catbox.moe/dvrxn4.png",
+  "repository":"https://github.com/Gwamaka15/Black-Tiger-Md-v1",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/ui3reu.png",
+      "value":"https://files.catbox.moe/dvrxn4.png",
       "required":false
        
      },
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mr Anyway"
+    "value": "Mr Gmax"
   },
     "NUMERO_OWNER":
   {
