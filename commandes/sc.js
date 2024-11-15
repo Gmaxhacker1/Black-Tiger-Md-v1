@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
       *𝗕𝗟𝗔𝗖𝗞 𝗧𝗜𝗚𝗘𝗥-𝗠𝗗 IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Gmaxhacker1/Black Tiger-Md-v1
+> https://github.com/Gmaxhacker1/Black-Tiger-Md-v1
 
 *WHATSAPP GROUP*
 > https://chat.whatsapp.com/Ji4SkX7GLEWAhPXVtChbg8
@@ -45,12 +45,12 @@ const date = moment().format('DD/MM/YYYY');
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒⁠⁠⁠⁠ *DEV1* : *mr Gmax*
-│❒⁠⁠⁠⁠ *DEV2* : *Lazack*
+│❒⁠⁠⁠⁠ *DEV2* : *Lazack28*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *𝗕𝗟𝗔𝗖𝗞 𝗧𝗜𝗚𝗘𝗥-𝗠𝗗*
+     *Gmax-Tech*
 
 ❒────────────────────❒`;
 
