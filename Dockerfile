@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Gmaxhacker1/Black-Tiger-Md-v1.git  /root/Zokou_Bot
-WORKDIR /root/Zokou_Bot/
+RUN git clone https://github.com/Gmaxhacker1/Black-Tiger-Md-v1  /root/ToshTech
+WORKDIR /root/toshtech/
 
 
 COPY package.json .
