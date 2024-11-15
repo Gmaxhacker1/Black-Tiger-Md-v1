@@ -2,21 +2,21 @@
   "name": "Blacktiger-md",
   "version": "2.0.0",
   "description": "",
-  "main": "bega.js",
+  "main": "index.js",
   "scripts": {
-    "test": "node bega.js",
-    "s": "node bega.js",
-    "bega": "pm2 start bega.js --attach",
-    "bega": "pm2 start bega.js --attach",
+    "test": "node index.js",
+    "s": "node index.js",
+    "gmax": "pm2 start index.js --attach",
+    "gmax": "pm2 start index.js --attach",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Baraka-md",
+    "Blacktiger-md",
     "whatsapp",
     "whatsapp-bot",
-    "baraka-md-bot"
+    "Blacktiger-md-bot"
   ],
   "author": "gmax tech",
 "license": "ISC",
