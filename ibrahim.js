@@ -167,7 +167,7 @@ setTimeout(() => {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\tSUPA MD ONLINE");
+            console.log("\tBLACK TIGER MD ONLINE");
             console.log("=========== written message===========");
             if (verifGroupe) {
                 console.log("message provenant du groupe : " + nomGroupe);
@@ -806,7 +806,7 @@ zk.ev.on('group-participants.update', async (group) => {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ Supa is connecting...");
+                console.log("ℹ️ black md is connecting...");
             }
             else if (connection === 'open') {
                 console.log("✅ black tiger Connected to WhatsApp! ☺️");
@@ -817,11 +817,11 @@ zk.ev.on('group-participants.update', async (group) => {
                 console.log("------------------/-----");
                 console.log("black tiger Md is Online 🕸\n\n");
                 //chargement des commandes 
-                console.log("Loading Supa Commands ...\n");
-                fs.readdirSync(__dirname + "/bmw").forEach((fichier) => {
+                console.log("Loading black tiger Commands ...\n");
+                fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/bmw/" + fichier);
+                            require(__dirname + "/commandes/" + fichier);
                             console.log(fichier + " Installed Successfully✔️");
                         }
                         catch (e) {
@@ -851,7 +851,7 @@ zk.ev.on('group-participants.update', async (group) => {
                 let cmsg =`      ❒─❒⁠⁠⁠⁠ *BOT-IS-RUNNING* ❒⁠⁠⁠⁠─⁠⁠⁠⁠❒⁠⁠⁠⁠
 ╭❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠              
 ❒⁠⁠⁠⁠ 𝑫𝑬𝑽   : *gmax Tech*   
-❒⁠⁠⁠⁠ 𝑩𝑶𝑻   : *SUPER-MD*
+❒⁠⁠⁠⁠ 𝑩𝑶𝑻   : *BLACK-MD*
 ╰❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
