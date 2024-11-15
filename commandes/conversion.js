@@ -252,7 +252,7 @@ zokou({ nomCom: "write", categorie: "Conversion", reaction: "👨🏿‍💻" },
     // Create the sticker
     const stickerMess = new Sticker(meme, {
       pack: nomAuteurMessage,
-      author: '𝗚𝗺𝗮𝘅-𝗧𝗲𝗰𝗵',
+      author: 'anyway-Md',
       type: StickerTypes.FULL,
       categories: ["🤩", "🎉"],
       id: "12345",
