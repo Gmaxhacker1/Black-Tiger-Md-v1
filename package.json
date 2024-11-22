@@ -8,15 +8,15 @@
 
   "description": "",
 
-  "main": "index.js",
+  "main": "Ibrahim.js",
 
   "scripts": {
 
     "test": "echo \"Error: no test specified\" && exit 1",
 
-    "s": "node index.js",
+    "s": "node Ibrahim.js",
 
-    "keith": "pm2 start index.js --attach --max-memory-restart 490M",
+    "keith": "pm2 start Ibrahim.js --attach --max-memory-restart 490M",
 
     "c": "tsc"
 
