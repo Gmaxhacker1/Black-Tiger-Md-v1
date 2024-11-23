@@ -1,3 +1,4 @@
+
 FROM node:lts-buster
 
 RUN apt-get update && \
@@ -9,8 +10,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Gmaxhacker1/Black-Tiger-Md-v1  /root/ToshTech
-WORKDIR /root/toshtech/
+RUN git clone https://github.com/Gmaxhacker1/Black-Tiger-Md-v1 /root/black tiger_Bot
+WORKDIR /root/black tiger_Bot/
 
 
 COPY package.json .
@@ -21,4 +22,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["npm", "run" , "ibrahim.js"]
+CMD ["node", "ibrahim.js"]
