@@ -10,8 +10,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Gmaxhacker1/Black-Tiger-Md-v1 /root/black tiger_Bot
-WORKDIR /root/black tiger_Bot/
+RUN git clone https://github.com/Gmaxhacker1/Black-Tiger-Md-v1 /root/black_Bot
+WORKDIR /root/black_Bot/
 
 
 COPY package.json .
