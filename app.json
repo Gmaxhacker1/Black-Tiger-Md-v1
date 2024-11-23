@@ -1,5 +1,5 @@
 {
-  "name": "BLACK TIGER-MD",
+  "name": "BLACK-TIGER-MD",
   "description": "Black Tiger is a multidevice WhatsApp bot built to make your WhatsApp enjoyable.",
   "keywords": [
     "bot",
@@ -59,7 +59,7 @@
     },
     "BOT_NAME": {
       "description": "Give a name for your bot",
-      "value": "BLACK TIGER-MD",
+      "value": "BLACK-TIGER-MD",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -89,7 +89,7 @@
     },
     "OWNER_NAME": {
       "description": "Your name",
-      "value": "Mr Gmax",
+      "value": "Gmax",
       "required": false
     },
     "NUMERO_OWNER": {
