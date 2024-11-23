@@ -2,7 +2,7 @@
 
  {
 
-  "name": "BLACK TIGER-MD",
+  "name": "BLACK-TIGER-MD",
 
   "version": "2.0.0",
 
@@ -28,7 +28,7 @@
 
     "Baileys",
 
-    "Black Tiger-Md",
+    "Black-Tiger-Md",
 
     "whatsapp",
 
@@ -38,7 +38,7 @@
 
    ],
 
-  "author": "Mr Gmax",
+  "author": "Gmax",
 
 "license": "ISC",
 
