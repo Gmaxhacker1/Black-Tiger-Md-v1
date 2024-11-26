@@ -10,7 +10,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Gmaxhacker1/Black-Tiger-Md-v1 /root/black_Bot
+RUN git clone https://github.com/Gmaxhacker1/Black-Tiger-Md-v1 /root/zokou
 WORKDIR /root/black_Bot/
 
 
