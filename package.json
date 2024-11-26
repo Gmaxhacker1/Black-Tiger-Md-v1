@@ -8,15 +8,15 @@
 
   "description": "",
 
-  "main": "ibrahim.js",
+  "main": "index.js",
 
   "scripts": {
 
     "test": "echo \"Error: no test specified\" && exit 1",
 
-    "s": "node ibrahim.js",
+    "s": "node index.js",
 
-    "keith": "pm2 start ibrahim.js --attach --max-memory-restart 490M",
+    "keith": "pm2 start index.js --attach --max-memory-restart 490M",
 
     "c": "tsc"
 
@@ -34,7 +34,7 @@
 
     "whatsapp-bot",
 
-    "Gmax"
+    "Black-tiger-md"
 
    ],
 
@@ -72,7 +72,7 @@
 
     "aptoide-scraper": "^1.0.1",
 
-    "api-dylux": "^1.8.3",
+    "api-dylux" : "^1.8.5",
 
     "acrcloud": "^1.4.0",
 
@@ -136,7 +136,7 @@
 
     "gemini-ai": "^1.1.0",
 
-    "genius-lyrics": "^4.4.3", 
+    "genius-lyrics": "^4.4.3",
 
     "google-play-scraper": "^10.0.0",
 
