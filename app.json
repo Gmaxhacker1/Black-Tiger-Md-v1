@@ -93,7 +93,7 @@
       "required": false
     },
     "NUMERO_OWNER": {
-      "description": "Your phone number (exclude '+' and area code, e.g., '254796299159')",
+      "description": "Your phone number (exclude '+' and area code, e.g., '255753853473')",
       "value": "255622053093",
       "required": false
     },
